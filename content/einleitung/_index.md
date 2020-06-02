@@ -1,5 +1,5 @@
 +++
-title = "Intro"
+title = "Einleitung"
 date = 2020-06-02T21:32:15+02:00
 weight = 5
 chapter = true
